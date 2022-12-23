@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi there 🙋</h1>
+<h3 align="center">I'm Daniele Menin, actually I'm a Blockchain Developer student on @start2impact </h3>
 
-<!--
-**Meno96/Meno96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Here you can see my actual progress:
+```
+📚 To Study | 📖 Studying | 💻 Coding a Project | 📦 Project Done
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📦 Html e Css
+- 📦 JavaScript
+- 📦 Django
+- 📦 Python
+- 📦 MySQL
+- 📦 Redis
+- 📦 MongoDB - Djongo
+- 📖 Blockchain
+- 📖 Ethereum Web3
+- 📚 React 
+- 📚 Angular
+- 📚 PHP
+- 📚 Wordpress
+- 📚 Node.js
+
+---
+
+How to Reach me ⤵️
+- Instagram - [@danielemeno96](https://www.instagram.com/danielemeno96/)
+- LinkedIn - [@danielemeno96](https://www.linkedin.com/in/daniele-menin/)
+- Mail - <danielemeno96@gmail.com>
+
