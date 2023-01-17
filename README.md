@@ -8,7 +8,7 @@ Here you can see my actual progress:
 📚 To Study | 📖 Studying | 💻 Coding a Project | 📦 Project Done
 ```
 
-- 📦 Html e Css
+- 📦 Html & Css
 - 📦 JavaScript
 - 📦 Django
 - 📦 Python
