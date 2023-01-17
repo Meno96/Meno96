@@ -15,8 +15,11 @@ Here you can see my actual progress:
 - 📦 MySQL
 - 📦 Redis
 - 📦 MongoDB - Djongo
+- 📦 Solidity
 - 📖 Blockchain
 - 📖 Ethereum Web3
+- 💻 Hardhat
+- 💻 Brownie
 - 📚 React 
 - 📚 Angular
 - 📚 PHP
